@@ -1,115 +1,115 @@
 [
     {
         "nome": "44ma Stagione Antidogma Musica",
-        "img": "/public/images/44-ma-stagione-antidogma-musica-9-giugno.jpg",
+        "img": "https://www.monasterodellastella.it/public/images/44-ma-stagione-antidogma-musica-9-giugno.jpg",
         "data_inizio": "2023-06-09 21:00:00.0000000",
         "categoria ": "Spettacolo "
     },
     {
         "nome": "A crooner's night",
-        "img": "/public/images/25-mar-2023-a-corners-night.jpeg",
+        "img": "https://www.monasterodellastella.it/public/images/25-mar-2023-a-corners-night.jpeg",
         "data_inizio": "2023-03-25 21:30:00.0000000",
         "categoria ": "Concerto "
     },
     {
         "nome": "Affrontiamo insieme il Parkinson",
-        "img": "/public/images/affrontiamo-insieme-il-parkinson.jpg",
+        "img": "https://www.monasterodellastella.it/public/images/affrontiamo-insieme-il-parkinson.jpg",
         "data_inizio": "2022-05-14 16:00:00.0000000",
         "categoria ": "Convegno "
     },
     {
         "nome": "L'amore al tempo del medioevo",
-        "img": "/public/images/amore-tempo-medioevo.jpg",
+        "img": "https://www.monasterodellastella.it/public/images/amore-tempo-medioevo.jpg",
         "data_inizio": "2022-03-08 16:30:00.0000000",
         "categoria ": "Convegno "
     },
     {
         "nome": "43ma Stagione Antidogma Musica",
-        "img": "/public/images/Invito_16_ottobre_2022.jpg",
+        "img": "https://www.monasterodellastella.it/public/images/Invito_16_ottobre_2022.jpg",
         "data_inizio": "2022-10-16 00:00:00.0000000",
         "categoria ": "Concerto "
     },
     {
         "nome": "Aperitivo con Concerto 28 Aprile",
-        "img": "/public/images/aperitico-concerto-28-aprile.jpg",
+        "img": "https://www.monasterodellastella.it/public/images/aperitico-concerto-28-aprile.jpg",
         "data_inizio": "2023-04-28 21:00:00.0000000",
         "categoria ": "Concerto "
     },
     {
         "nome": "Aperitivo con Concerto 18 Maggio",
-        "img": "/public/images/aperitivo-con-concerto-18-maggio.png",
+        "img": "https://www.monasterodellastella.it/public/images/aperitivo-con-concerto-18-maggio.png",
         "data_inizio": "2023-05-18 20:00:00.0000000",
         "categoria ": "Concerto "
     },
     {
         "nome": "Mozart: I quartetti con Flauto",
-        "img": "/public/images/recondite-armonie.jpg",
+        "img": "https://www.monasterodellastella.it/public/images/recondite-armonie.jpg",
         "data_inizio": "2021-11-05 21:00:00.0000000",
         "categoria ": "Concerto "
     },
     {
         "nome": "Tutte le mattine del mondo di Pascal Quignard",
-        "img": "/public/images/recondite-armonie.jpg",
+        "img": "https://www.monasterodellastella.it/public/images/recondite-armonie.jpg",
         "data_inizio": "2021-11-12 21:00:00.0000000",
         "categoria ": "Concerto "
     },
     {
         "nome": "Bach ieri e oggi",
-        "img": "/public/images/bach-ieri-e-oggi.jpg",
+        "img": "https://www.monasterodellastella.it/public/images/bach-ieri-e-oggi.jpg",
         "data_inizio": "2022-05-27 18:00:00.0000000",
         "categoria ": "Concerto "
     },
     {
         "nome": "Boll'Ostriche",
-        "img": "/public/images/bollostriche.jpg",
+        "img": "https://www.monasterodellastella.it/public/images/bollostriche.jpg",
         "data_inizio": "2022-12-02 18:00:00.0000000",
         "categoria ": "Evento "
     },
     {
         "nome": "Bottega Teatrale",
-        "img": "/public/images/bottega-teatrale.jpg",
+        "img": "https://www.monasterodellastella.it/public/images/bottega-teatrale.jpg",
         "data_inizio": "2022-02-13 16:30:00.0000000",
         "categoria ": "Spettacolo Teatrale "
     },
     {
         "nome": "Cambiamenti Climatici: conseguenze sociali ed economiche",
-        "img": "/public/images/cambiamenti-climatici-conseguenze-social-ed-economiche.jpg",
+        "img": "https://www.monasterodellastella.it/public/images/cambiamenti-climatici-conseguenze-social-ed-economiche.jpg",
         "data_inizio": "2022-05-03 17:00:00.0000000",
         "categoria ": "Convegno "
     },
     {
         "nome": "Capodanno alla Stella",
-        "img": "/public/images/capodanno-alla-stella-2023.jpg",
+        "img": "https://www.monasterodellastella.it/public/images/capodanno-alla-stella-2023.jpg",
         "data_inizio": "2023-01-01 16:30:00.0000000",
         "categoria ": "Concerto "
     },
     {
         "nome": "La collezione libraria della Stella",
-        "img": "/public/images/collezione-libraria-della-stella.jpg",
+        "img": "https://www.monasterodellastella.it/public/images/collezione-libraria-della-stella.jpg",
         "data_inizio": "2022-02-26 14:30:00.0000000",
         "categoria ": "Convegno "
     },
     {
         "nome": "Henno de Rose",
-        "img": "/public/images/concerto-23-dic-2021.png",
+        "img": "https://www.monasterodellastella.it/public/images/concerto-23-dic-2021.png",
         "data_inizio": "2021-12-23 21:00:00.0000000",
         "categoria ": "Concerto "
     },
     {
         "nome": "Quintetto Pianoforte e Fiati",
-        "img": "/public/images/locandina_concerto_quintetto_pianoforte_fiati_28112021.jpg",
+        "img": "https://www.monasterodellastella.it/public/images/locandina_concerto_quintetto_pianoforte_fiati_28112021.jpg",
         "data_inizio": "2021-11-28 17:00:00.0000000",
         "categoria ": "Spettacolo "
     },
     {
         "nome": "Concerto della corale \"Le Tre Valli\"",
-        "img": "/public/images/concerto-tre-valli.jpg",
+        "img": "https://www.monasterodellastella.it/public/images/concerto-tre-valli.jpg",
         "data_inizio": "2022-11-19 21:00:00.0000000",
         "categoria ": "Concerto "
     },
     {
         "nome": "Convegno Internazionale Le livre du Chevalier Errant",
-        "img": "/public/images/convegno-chevalier-errant.jpeg",
+        "img": "https://www.monasterodellastella.it/public/images/convegno-chevalier-errant.jpeg",
         "data_inizio": "2021-10-08 15:30:00.0000000",
         "categoria ": "Convegno "
     }
